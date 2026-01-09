@@ -33,7 +33,7 @@
   "homepage": "https://github.com/Azure-Samples/ms-identity-javascript-tutorial#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "office-addin-debugging": "^5.0.2"
   },
   "devDependencies": {
